@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Index from "./components/Index";
-import "./style.css";
+import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx";
+import Index from "./components/Index.jsx";
+import "./index.css";
 
 function App() {
   return (
